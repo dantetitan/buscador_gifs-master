@@ -1,6 +1,6 @@
 # buscador_gifs
 
-App desenvolvidor em Flutter, utilizando uma API do https://giphy.com/ em JSON para importar os Gifs para o app.
+App desenvolvido em Flutter, utilizando uma API do https://giphy.com/ em JSON para importar os Gifs para o app.
 O app realiza buscas por palavras chaves e pode compartilhar e baixar o Gif que você desejar.
 
 ## Getting Started
